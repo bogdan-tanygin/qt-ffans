@@ -6,8 +6,8 @@ QT FFANS
         :target: http://travis-ci.org/psci2195/ffans
 .. image:: http://img.shields.io/badge/license-GPL-yellow.svg?style=flat
         :target: https://github.com/psci2195/ffans/blob/master/LICENSE.txt
-.. image:: http://img.shields.io/badge/arXiv-1112.4431-orange.svg?style=flat
-        :target: http://arxiv.org/abs/1112.4431
+.. image:: http://img.shields.io/badge/arXiv-1503.05854-orange.svg?style=flat
+        :target: http://arxiv.org/abs/1503.05854
 
 Qt port and the cross-platform UI layer of FFANS, the Ferrofluid Aggregates Nano Simulator https://github.com/psci2195/ffans
 
