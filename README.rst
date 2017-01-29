@@ -1,4 +1,5 @@
-# qt-ffans
+QT FFANS
+=====
 
 .. image:: https://sites.google.com/site/btanygin/_/rsrc/1430314739953/research/physics/simulation/ferrofluids/doc-images/logo-header-48px.png
 .. image:: http://img.shields.io/travis/psci2195/ffans/master.svg?style=flat
