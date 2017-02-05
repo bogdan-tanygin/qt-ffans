@@ -9,7 +9,7 @@ QT FFANS
 .. image:: http://img.shields.io/badge/arXiv-1503.05854-orange.svg?style=flat
         :target: http://arxiv.org/abs/1503.05854
 
-Qt port and the cross-platform UI layer of FFANS, the Ferrofluid Aggregates Nano Simulator https://github.com/psci2195/ffans
+Qt port (in progress) and the cross-platform UI layer of FFANS, the Ferrofluid Aggregates Nano Simulator https://github.com/psci2195/ffans
 
 About
 -----
