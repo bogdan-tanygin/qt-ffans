@@ -1,31 +1,31 @@
 SOURCES += \
-    glwidget.cpp \
-    main.cpp \
-    modelwindow.cpp \
-    modeldb.cpp \
-    modelsimcore.cpp \
-    settingswindow.cpp \
-    settingsxml.cpp \
-    modelparameterswindow.cpp \
-    modelparameters.cpp \
-    controlwidget.cpp \
-    modelgraphics.cpp \
-    modeldataanalysis.cpp \
-    apptools.cpp
+    src/glwidget.cpp \
+    src/main.cpp \
+    src/modelwindow.cpp \
+    src/modeldb.cpp \
+    src/modelsimcore.cpp \
+    src/settingswindow.cpp \
+    src/settingsxml.cpp \
+    src/modelparameterswindow.cpp \
+    src/modelparameters.cpp \
+    src/controlwidget.cpp \
+    src/modelgraphics.cpp \
+    src/modeldataanalysis.cpp \
+    src/apptools.cpp
 HEADERS += \
-    glwidget.h \
-    main.h \
-    modelwindow.h \
-    controlwidget.h \
-    modeldb.h \
-    modelsimcore.h \
-    settingswindow.h \
-    settingsxml.h \
-    modelparameterswindow.h \
-    modelparameters.h \
-    modelgraphics.h \
-    modeldataanalysis.h \
-    apptools.h
+    src/glwidget.h \
+    src/main.h \
+    src/modelwindow.h \
+    src/controlwidget.h \
+    src/modeldb.h \
+    src/modelsimcore.h \
+    src/settingswindow.h \
+    src/settingsxml.h \
+    src/modelparameterswindow.h \
+    src/modelparameters.h \
+    src/modelgraphics.h \
+    src/modeldataanalysis.h \
+    src/apptools.h
 
 qtHaveModule(opengl) {
 	DEFINES += QT_OPENGL_SUPPORT
